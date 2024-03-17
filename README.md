@@ -8,5 +8,5 @@ I used t5flan from transformers as generative model.
 In order to run this code you need to have a python environment with transformers library in it.
 
 # bugs
-Sometimes the model's (t5) output is completly mumble with no sense at all.
+Sometimes the model's (t5) output is irrelevant or senseless.
 
